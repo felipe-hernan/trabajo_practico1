@@ -1,6 +1,6 @@
 # tp1
 
-**Ejercicio 2 - 2)a) **
+**Ejercicio 2 - 2)a)
 es conveniente incluirlo porque especifica los archivos que Git debe ignorar 
 intencionalmente y que no se rastrean.
 Se debe hacer antes de crear los archivos a ignorar.
