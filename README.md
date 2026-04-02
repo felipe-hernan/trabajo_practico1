@@ -2,7 +2,7 @@
 
 ### Ejercicio 2 - 2-a
 
-es conveniente incluirlo porque especifica los archivos que Git debe ignorar 
+El archivo .gitignore es conveniente incluirlo porque especifica los archivos que Git debe ignorar 
 intencionalmente y que no se rastrean.
 Se debe hacer antes de crear los archivos a ignorar.
 Para crear un archivo .gitignore, se crea un archivo de texto y se asigna de nombre .gitignore.
@@ -16,14 +16,14 @@ lo ignore siguiendo una convencion para distinguir los elementos.
 El codigo misterioso cambia de valor un numero, primero invierte sus cifras, lo divide en 2
 y lo suma con la suma de sus cifras.
  
-**temp** cambia a **valor_inicial** porque es el valor inicial que ingresa a las funciones
-**rev** cambia a **numero_invertido** porque es el resultado de invertir el numero que entra a la funcion
-**p** cambia a **pNumero** porque es un puntero a un numero arbitrario
-**f_alpha** cambia a **invertir** porque dado un numero, la funcion invierte sus cifras
-**f_beta** cambia a **mitad** porque dado un numero , la funcion divide en 2 al numero ingresado
-**f_gamma** cambia a **suma_digito_numero** porque dado el numero, la funcion suma sus digitos con el numero inicial
-**procesar_enigma** cambia a **transforma_numero** porque dado el numero, la funcion hace tres operaciones y cambia su valor inicial
-**dato_secreto** cambia a **tranformar** porque el numero se va a transformar en otro numero
+- **temp** cambia a **valor_inicial** porque es el valor inicial que ingresa a las funciones
+- **rev** cambia a **numero_invertido** porque es el resultado de invertir el numero que entra a la funcion
+- **p** cambia a **pNumero** porque es un puntero a un numero arbitrario
+- **f_alpha** cambia a **invertir** porque dado un numero, la funcion invierte sus cifras
+- **f_beta** cambia a **mitad** porque dado un numero , la funcion divide en 2 al numero ingresado
+- **f_gamma** cambia a **suma_digito_numero** porque dado el numero, la funcion suma sus digitos con el numero inicial
+- **procesar_enigma** cambia a **transforma_numero** porque dado el numero, la funcion hace tres operaciones y cambia su valor inicial
+- **dato_secreto** cambia a **tranformar** porque el numero se va a transformar en otro numero
 
 **Codigo sin funcionar:** 
 
